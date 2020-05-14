@@ -1,6 +1,6 @@
 -- Databricks notebook source
 -- MAGIC %md
--- MAGIC # Databricks in 5 minutes for Kieran
+-- MAGIC # Databricks in 5 minutes for Quby
 
 -- COMMAND ----------
 
