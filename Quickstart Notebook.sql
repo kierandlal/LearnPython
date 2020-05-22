@@ -1,6 +1,6 @@
 -- Databricks notebook source
 -- MAGIC %md
--- MAGIC # Databricks in 5 minutes for demo
+-- MAGIC # Databricks in 5 minutes for demo on Friday
 
 -- COMMAND ----------
 
