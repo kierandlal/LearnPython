@@ -1,6 +1,6 @@
 -- Databricks notebook source
 -- MAGIC %md
--- MAGIC # Databricks in 5 minutes for long weekend
+-- MAGIC # Databricks in 5 minutes for Ronan
 
 -- COMMAND ----------
 
